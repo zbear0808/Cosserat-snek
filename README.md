@@ -7,4 +7,7 @@ This project handles the simulation of a soft body snake.
 
 It is also designed to allow for simple optimization of the snake's gait. Optimization will be done using CMA 
 
+more details are in the snake.pdf
+
+
 
